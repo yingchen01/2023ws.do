@@ -1,82 +1,111 @@
-# Self-management_For example "Morningstar"
+# Self-management
+## "Morningstar"
+Presented by Yingchen Zhang
+
 ---
+
+## A company...
+
+1. No boss, no management
+
+2. Employees are responsible for colleagues
+
+3. Everyone can spend the budget
+
+4. Contribution decides Salary
+
+---
+
 ## What
-### The introduction of the Morningstar
-1. Background
+###  The definition of self-management
 
-1. Vision
+1. Form of company organization and management
 
-2. Mission
+1. Shared vision and goals
 
-3.   gsdfgsdfzxgzxf
+2. Employee relationship is a network structure
+
+3. Emphasize mutual trust, sharing and innovation
 
 ---
 
-### The Introduction of Self-management
-1. Definition
+## Case study: Morningstar
+![Alt text](image.png)
+1. The world's largest tomato processor
+2. 400 employees and >$70B in annual revenue
+3. Founded in 1970
 
-2. Self-Management in Morningstar
+---
+
+### Mission and Vision
+![Alt text](<mission and vision.png>)
 
 ---
 
 ## How
-### Unpacking the Morning Star Model
-1. Make the mission the boss
+### Morningstar + Self-Management?
 
-2. Make the mission the boss - CLOU
+• Make the tasks be boss
 
-3. Empower everyone—truly
+• Ask employees to sign CLOU
 
-4. Encourage competition for impact, not for promotions
+• Empower everyone
 
-5. Calculation and consultation
-
-6. Conflict resolution and due process
+• Contribute for gain
 
 ---
 
-### Why
-### The advantages of self-management
-1. More proactive
+### 1/4 Make the tasks be boss
 
-2. More expertise
-
-Few employees leave to join rivals, and even temporary workers are dedicated to the organization.
-
-3. More flexible
-
-Employees respond rapidly, coming together in teams to tackle challenges and to experiment with new ideas.
-
-4. More cooperation
-
-5. Better judgment
-
-Employees are proactive because they have the freedom to act. They are also willing to help colleagues because it increases their reputational capital.
-
-6. More loyal
-
-Backstabbing, politicking, and sycophantic behaviors drop dramatically when employees stop competing for promotions. Few employees leave to join rivals, and even temporary workers are dedicated to the organization.
-
-7. Cost saving
-
-Without a corporate ladder to climb, employees find it difficult to evaluate their progress relative to peers. That can become a handicap when someone wants to switch companies.
+![Alt text](<personal mission.png>)
 
 ---
 
-### The disadvantages of self-management
-1. Tougher Adjustment
+### 2/4 Ask employees to sign CLOU
+For employees, the CLOU(Colleague Letter of Understanding)is: 
+1. two employees sign clou with each other
+2. Includes up to 30 areas of activity (details results, objectives and KOIs)
+3. Guarantees among colleagues to check the achievement of targets.
 
-Employees who’ve worked all their lives in hierarchical organizations may not be able to cope.
+---
 
-2. Accountability challenge
+### 3/4 Empower everyone
+![Alt text](<empower .png>)
+Can send a purchase order and Doesn't get permission
 
-If employees fail to deliver a strong message to colleagues who don’t meet expectations, self-management can become a conspiracy of mediocrity.
+---
 
-3. Longer Induction
+### 4/4 Contribute for gain
+1. everyone is not equal
+2. more influential = higher levels of pay
+3. more contribution = more favorable comments
 
-It takes time to fit in. New employees may need a year or more to become fully functional in the system.
+---
 
-4. Growth problem
+## Why
+### The advantages
+• More proactive
 
-Without a corporate ladder to climb, employees find it difficult to evaluate their progress relative to peers. That can become a handicap when someone wants to switch companies.
+• More expertise
+
+• More flexible
+
+• More cooperation
+
+• Better judgment
+
+• More loyal
+
+• Cost saving
+
+---
+
+### The disadvantages
+• Tougher Adjustment
+
+• Longer Induction
+
+---
+
+# Thank you
 
